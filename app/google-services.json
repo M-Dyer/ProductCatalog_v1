@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328830335084",
+    "firebase_url": "https://seg2105lab5firebase-24a11.firebaseio.com",
+    "project_id": "seg2105lab5firebase-24a11",
+    "storage_bucket": "seg2105lab5firebase-24a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328830335084:android:22823f74935582f1454049",
+        "android_client_info": {
+          "package_name": "mgarzon.createbest.productcatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328830335084-h5odnmbsdonaduqjb3ovrvidcp808cgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA_qfZZsNKEzpkHuAzQGvhAb0GQe27zac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328830335084-h5odnmbsdonaduqjb3ovrvidcp808cgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
